@@ -22,7 +22,7 @@
   "dependencies": {
     "axios": "^0.21.2",
     "babel-polyfill": "^6.26.0",
-    "eventsource": "^1.1.1",
+    "eventsource": "^2.0.2",
     "requires": "^1.0.2",
     "sockjs-client": "^1.4.0",
     "via": "0.0.1"
