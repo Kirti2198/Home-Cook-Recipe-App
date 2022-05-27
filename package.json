@@ -21,6 +21,10 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "eventsource": "^1.1.1",
+    "requires": "^1.0.2",
+    "sockjs-client": "^1.4.0",
+    "via": "0.0.1"
   }
 }
